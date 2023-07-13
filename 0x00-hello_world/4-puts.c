@@ -1,5 +1,5 @@
 #include <stdio.h>
-#include <string.h>
+/*input output variable*/
 int main(void)
 {
 	puts("\"Programming is like building a multilingual puzzle");
