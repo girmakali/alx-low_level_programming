@@ -1,1 +1,1 @@
-variadic
+singly linked
